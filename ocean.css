@@ -1,0 +1,9 @@
+.wrapper {
+    margin: 1px;
+    width: 100%;
+}
+
+table {
+    margin: 1px;
+    border: 1px solid black;
+}

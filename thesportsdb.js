@@ -27,8 +27,8 @@ function displayList(sportsArray){
         sportDesc.innerText = sport.strSportDescription;
 
         img.src = sport.strSportThumb;
-        //img.height = 100;
-        //img.width = 100;
+        img.height = 100;
+        img.width = 100;
         
         sportThumb.appendChild(img);
         tableRow.appendChild(sportName);
